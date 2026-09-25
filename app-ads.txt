@@ -2896,3 +2896,6 @@ appnexus.com, 17973, RESELLER, f5ab79cb980f11d1
 bold-win.com, 1013, RESELLER, 71746737d0bab951
 
 my-cast.tv, 987033, RESELLER, 8c33fe1bd714ffd7
+metup.it, AJxF6R648a9M6CaTvK, RESELLER
+bidease.com, bidease_seller_19, RESELLER
+spinx.biz, 1373698900, RESELLER
